@@ -12,6 +12,7 @@ const API_KEY = '85a320bbc3e447ebb881a2ce01741784'; // Replace this with your ac
 
 // Mapping of fur values to image URLs
 const furImageMapping = {
+    'Acid' : 'https://upcdn.io/W142i9c/raw/background/Acid.png',
   'Alien': 'https://upcdn.io/W142i9c/raw/background/Alien.png',
   'Black': 'https://upcdn.io/W142i9c/raw/background/Black.png',
   'Giraffe': 'https://upcdn.io/W142i9c/raw/background/Giraffe.png',
@@ -32,8 +33,10 @@ const furImageMapping = {
   'Robotic': 'https://upcdn.io/W142i9c/raw/background/Robotic.png',
   'Black': 'https://upcdn.io/W142i9c/raw/background/Black.png',
   'Green':'https://upcdn.io/W142i9c/raw/background/Green.png',
-  
-  'Wave':'https://upcdn.io/W142i9c/raw/background/brownish.png'
+  'Cyborg': 'https://upcdn.io/W142i9c/raw/background/Cyborg.png',
+  'Teal' : 'https://upcdn.io/W142i9c/raw/background/Teal.png',
+  'Wave':'https://upcdn.io/W142i9c/raw/background/Wave.png',
+  'Spot': 'https://upcdn.io/W142i9c/raw/background/Spot.png',
   // to be fix
   
 };
